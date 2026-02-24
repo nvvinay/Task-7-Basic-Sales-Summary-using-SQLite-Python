@@ -33,4 +33,4 @@ Learned how to:
 - Load SQL results into pandas
 - Visualize sales data using matplotlib
 
-## Author - Jayanth B
+## Author - Vinay N V
